@@ -5,8 +5,7 @@ body {
     padding: 0;
     background-color: #f4f4f4;
     color: #333;
-    cursor: url(assets/tooth-cursor.cur), auto; /* Cambia el cursor */
-}
+    cursor: url('/assets/bola-cursor.png'), auto;
 
 header {
     background: linear-gradient(135deg, #6a11cb, #2575fc);
